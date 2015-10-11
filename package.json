@@ -1,0 +1,15 @@
+{
+  "name": "automakesi",
+  "version": "1.0.0",
+  "main": "index.html",
+  "description": "auto complete makesi homework in attop",
+  "window": {
+    "toolbar": false,
+    "frame": true,
+    "width": 1200,
+    "height": 720,
+    "resizable": false
+  },
+  "author": "Ling",
+  "license": "Apache-2.0"
+}
