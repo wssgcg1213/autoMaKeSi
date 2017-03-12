@@ -1,5 +1,7 @@
 # 至善网马克思自动[SB]答题 (全平台)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wssgcg1213/autoMaKeSi.svg)](https://greenkeeper.io/)
+
 题目答案来自[这里](http://i.congm.in/%E8%87%B3%E5%96%84%E7%BD%91-%E9%A9%AC%E5%85%8B%E6%80%9D/)
 
 thanks to **Cong Min**
